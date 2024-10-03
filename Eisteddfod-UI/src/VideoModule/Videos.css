@@ -1,0 +1,13 @@
+.vidCardList {
+    background-color: white;
+    border-color: aquamarine;
+    border-width: 5px;
+    width: 1000px;
+    max-width: 100%;
+}
+
+.vidFrame{
+    width: 250px;
+    height: 200px;
+    max-width: 100%;
+}
